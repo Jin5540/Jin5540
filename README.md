@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm [YEJIN LEE]</h1>
 <h3 align="center">A passionate developer from South Korea 🇰🇷</h3>
 
 ---
@@ -37,8 +37,8 @@
 ### 📫 Contact Me
 
 - Email: c20950308@gmail.com  
-- Blog: [https://your-blog.com](https://dev.to/sunj)  
-- LinkedIn: [yejin lee](https://www.linkedin.com/in/yejin-lee-0338192ba/)
+- Blog: [https://det.to/sunj](https://dev.to/sunj)  
+- LinkedIn: [https://www.linkedin.com/in/yejin-lee-0338192ba/](https://www.linkedin.com/in/yejin-lee-0338192ba/)
 
 ---
 
